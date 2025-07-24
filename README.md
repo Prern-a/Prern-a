@@ -1,10 +1,10 @@
 # ABOUT ME 👋
-## I'm currently learning and working on Web Development.
-## I like to create Projects that I myself would use practically.
-## I am passionate about Computer Science and am exploring many fields to see
-## which ones I am good at.
+#### I'm currently learning and working on Web Development.
+#### I like to create Projects that I myself would use practically.
+#### I am passionate about Computer Science and am exploring many fields to see
+#### which ones I am good at.
 
-## I like to keep my frontend designs minimal and easy to use, while maintaining elegance.
+#### I like to keep my frontend designs minimal and easy to use, while maintaining elegance.
 <!--
 **Prern-a/Prern-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
